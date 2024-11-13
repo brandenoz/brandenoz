@@ -7,9 +7,9 @@
   - [Build an Active Directory](https://github.com/brandenoz/configure-ad)
   - [Inspect Network Traffic](https://github.com/brandenoz/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/brandenoz/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/brandenoz/post-install-config)
-  - [osTicket: Ticket Lifecycle](https://github.com/brandenoz/ticket-lifecycle)
+  - [osTicket: Installation](https://github.com/brandenoz/osticket-prereqs)
+  - [osTicket: Configuration](https://github.com/brandenoz/post-install-config)
+  - [osTicket: Tickets](https://github.com/brandenoz/ticket-lifecycle)
 
 
 <h2>🤳Connect with me:</h2>
