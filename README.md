@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Build a Virtual Machine](https://github.com/brandenoz/virtual-machine)
   - [Build an Active Directory](https://github.com/brandenoz/configure-ad)
-  - [Inspecting Network Traffic](https://github.com/brandenoz/azure-network-protocols)
+  - [Inspect Network Traffic](https://github.com/brandenoz/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/brandenoz/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/brandenoz/post-install-config)
