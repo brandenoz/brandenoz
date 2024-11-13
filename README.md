@@ -3,13 +3,13 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Build and Enter a Virtual Machine](https://github.com/brandenoz/virtual-machine)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/brandenoz/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brandenoz/azure-network-protocols)
+  - [Build a Virtual Machine](https://github.com/brandenoz/virtual-machine)
+  - [Build an Active Directory](https://github.com/brandenoz/configure-ad)
+  - [Inspecting Network Traffic](https://github.com/brandenoz/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/brandenoz/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/brandenoz/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/brandenoz/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle](https://github.com/brandenoz/ticket-lifecycle)
 
 
 <h2>🤳Connect with me:</h2>
