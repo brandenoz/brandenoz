@@ -9,7 +9,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/brandenoz/osticket-prereqs)
   - [osTicket: Configuration](https://github.com/brandenoz/post-install-config)
-  - [osTicket: Tickets](https://github.com/brandenoz/ticket-lifecycle)
+  - [osTicket: Lifecycle](https://github.com/brandenoz/ticket-lifecycle)
 
 
 <h2>🤳Connect with me:</h2>
