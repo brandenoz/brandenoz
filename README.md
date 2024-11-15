@@ -2,11 +2,11 @@
 
 <h2>💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure 🪟</b>
   - [Build a Virtual Machine](https://github.com/brandenoz/virtual-machine)
   - [Build an Active Directory](https://github.com/brandenoz/configure-ad)
   - [Inspect Network Traffic](https://github.com/brandenoz/azure-network-protocols)
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket (Help Desk Ticketing System) 🦘</b>
   - [osTicket: Installation](https://github.com/brandenoz/osticket-prereqs)
   - [osTicket: Configuration](https://github.com/brandenoz/post-install-config)
   - [osTicket: Lifecycle](https://github.com/brandenoz/ticket-lifecycle)
