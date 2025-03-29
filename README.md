@@ -10,6 +10,8 @@
   - [osTicket: Installation](https://github.com/brandenoz/osticket-prereqs)
   - [osTicket: Configuration](https://github.com/brandenoz/post-install-config)
   - [osTicket: Lifecycle](https://github.com/brandenoz/ticket-lifecycle)
+- <b>Python Projects 🐍</b>
+- <b>Java Projects ☕</b>
 
 
 <h2>🤳Connect with me:</h2>
