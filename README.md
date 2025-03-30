@@ -11,7 +11,7 @@
   - [osTicket: Configuration](https://github.com/brandenoz/post-install-config)
   - [osTicket: Lifecycle](https://github.com/brandenoz/ticket-lifecycle)
 - <b>Python Projects 🐍</b>
-  - 
+  - [Number Guessing Game](https://github.com/brandenoz/number-game)
 - <b>HTML / CSS Projects 👨‍💻</b>
 
 
