@@ -11,7 +11,8 @@
   - [osTicket: Configuration](https://github.com/brandenoz/post-install-config)
   - [osTicket: Lifecycle](https://github.com/brandenoz/ticket-lifecycle)
 - <b>Python Projects 🐍</b>
-- <b>Java Projects ☕</b>
+  - 
+- <b>HTML / CSS Projects 👨‍💻</b>
 
 
 <h2>🤳Connect with me:</h2>
