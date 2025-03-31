@@ -1,8 +1,8 @@
-<h1>Hi, I'm Branden, an <a href="https://linkedin.com/in/branden-osborne/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Branden</h1>
 
   MBA in IT Management, Aspiring Software Engineer
 
-<h2>💻 Information Technology Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>Microsoft Azure ☁️</b>
   - [Build a Virtual Machine](https://github.com/brandenoz/virtual-machine)
@@ -19,12 +19,8 @@
 
 
 
-<h2>🔗 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="Branden | LinkedIn" width="33px" src="https://i.imgur.com/UAdZs7z.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/branden-osborne/
-
-[<img align="left" alt="Branden | Goodreads" width="33px" src="https://i.imgur.com/9tJCM2K.png" />][goodreads]
-
-[goodreads]: https://www.goodreads.com/user/show/64632890-branden
