@@ -19,6 +19,11 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Branden | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Branden | LinkedIn" width="33px" src="https://i.imgur.com/UAdZs7z.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/branden-osborne/
+
+
+[<img align="left" alt="Branden | Goodreads" width="33px" src="https://i.imgur.com/9tJCM2K.png" />][goodreads]
+
+[goodreads]: https://www.goodreads.com/user/show/64632890-branden
