@@ -12,7 +12,9 @@
   - [osTicket: Lifecycle](https://github.com/brandenoz/ticket-lifecycle)
 - <b>Python Projects 🐍</b>
   - [Number Guessing Game](https://github.com/brandenoz/number-game)
-- <b>HTML / CSS Projects 👨‍💻</b>
+- <b>HTML Projects 👨‍💻</b>
+  - [Code an HTML Email Signature](https://github.com/brandenoz/email-signature)
+
 
 
 <h2>🤳Connect with me:</h2>
