@@ -1,6 +1,6 @@
 <h1>Hi, I'm Branden</h1>
 
-  MBA in IT Management, Aspiring Software Engineer
+  MBA in IT Management
 
 <h2>Projects:</h2>
 
