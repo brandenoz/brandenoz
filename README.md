@@ -15,4 +15,4 @@
   - [Number Guessing Game](https://github.com/brandenoz/number-game)
   - [Magic 8 Ball](https://github.com/brandenoz/8-ball)
 - <b>HTML 👨‍💻</b>
-  - [Code an HTML Email Signature](https://github.com/brandenoz/email-signature)
+  - [Email Signature](https://github.com/brandenoz/email-signature)
