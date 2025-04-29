@@ -13,6 +13,6 @@
 - <b>Python 🐍</b>
   - [Web Scraper](https://github.com/brandenoz/web-scraper)
   - [Number Guessing Game](https://github.com/brandenoz/number-game)
-  - [Magic 8 Ball](https://github.com/brandenoz/8-ball)
+  - [Magic 8-Ball](https://github.com/brandenoz/8-ball)
 - <b>HTML 👨‍💻</b>
   - [Email Signature](https://github.com/brandenoz/email-signature)
